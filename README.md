@@ -1,2 +1,1 @@
-# Dectiun
-Package Manager for Lebirun
+# This is so far a test repo
